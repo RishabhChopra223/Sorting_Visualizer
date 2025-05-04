@@ -98,6 +98,7 @@ function generatebarsWorst(num) {
             }
 		}
 		bar.appendChild(barLabel);
+	    
 	    container.appendChild(bar);
     }
 }
