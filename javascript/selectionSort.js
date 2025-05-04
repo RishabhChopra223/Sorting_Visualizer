@@ -41,6 +41,7 @@ function generatebars(num) {
             }
 		}
 		bar.appendChild(barLabel);
+	    
 	    container.appendChild(bar);
     }
 }
