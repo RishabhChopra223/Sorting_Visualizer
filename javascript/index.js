@@ -3,9 +3,11 @@ AOS.init({
     once: true
 });
 
+
 const byId = id => {
     return document.getElementById(id);
 }
+
 
 window.onclick = function(event) {
     if (event.target.matches(".open")) {
