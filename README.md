@@ -54,4 +54,4 @@ The project focuses on **learning by visualization**, making complex algorithms 
 ## 📫 Contact
 **Rishabh Chopra**  
 📧 Email: rishabhchopra2003@gmail.com  
-🌍 Portfolio: https://RishabhChopra223.github.io/
+
